@@ -32,3 +32,10 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Utilicé ChatGPT para ayudarme a organizar las ideas y completar la información de mi proyecto. Revisé las respuestas y las adapté a lo que quiero lograr con MADÚ.
+
+## Supuestos y limitaciones
+Supuesto 1 
+Supuesto 2
+Limitación 1
+
+
